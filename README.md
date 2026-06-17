@@ -723,6 +723,12 @@ This will:
 3. Compile TypeScript to JavaScript
 4. Generate all distribution bundles (ESM, CommonJS, UMD, minified versions)
 
+## Awards
+
+<a href="https://www.schweizerkulturpreise.ch/en/david-aerne-2026-en"><img align="right" width="120" src="./dist/swiss-design-award-2026.svg" alt="Swiss Design Award 2026" /></a>
+
+"**poline**" has been awarded the [Swiss Design Award 2026](https://www.schweizerkulturpreise.ch/en/david-aerne-2026-en) in the category "Interaction & Media Design".
+
 ## License
 
 And thus, the tome of "**poline**" has been written. Its mystical powers, steeped in the arcane knowledge of the ancients, now reside within these pages. May this compendium serve you in your quest for the ultimate color palette.
